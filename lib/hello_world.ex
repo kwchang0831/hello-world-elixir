@@ -4,7 +4,7 @@ defmodule HelloWorld do
   """
   def start(_type, _args) do
     IO.puts("Hello World from Elixir.")
-    System.stop(0)
+    {:ok, self()}
   end
 
   @doc """

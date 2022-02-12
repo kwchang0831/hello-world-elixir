@@ -1,7 +1,8 @@
 # Hello World from Elixir
 
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/kwchang0831/hello-world-elixir/CI?style=flat-square&label=Action:%20CI&logo=Github)](https://github.com/kwchang0831/hello-world-elixir/actions/workflows/ci.yml)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/kwchang0831/hello-world-elixir/CI?style=flat-square&label=CI&logo=Github)](https://github.com/kwchang0831/hello-world-elixir/actions/workflows/ci.yml)
 [![GitHub License](https://img.shields.io/github/license/kwchang0831/hello-world-elixir?style=flat-square)](https://github.com/kwchang0831/hello-world-elixir/blob/main/LICENSE)
+[![Coverage Status](https://coveralls.io/repos/github/kwchang0831/hello-world-elixir/badge.svg?branch=main)](https://coveralls.io/github/kwchang0831/hello-world-elixir?branch=main)
 
 Program written in Elixir that prints out "Hello World from Elixir".  
 
